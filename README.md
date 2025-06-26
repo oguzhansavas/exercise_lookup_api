@@ -40,14 +40,25 @@ GET /exercises?muscle=chest&equipment=dumbbell
 ```http
 [
   {
-    "name": "Dumbbell Bench Press",
-    "muscle": "chest",
-    "equipment": "dumbbell"
+    "id": 29,
+    "name": "Push-up",
+    "muscle": "Chest",
+    "equipment": [
+      "Bodyweight"
+    ],
+    "difficulty": "Beginner",
+    "type": "Strength"
   },
   {
-    "name": "Incline Dumbbell Fly",
-    "muscle": "chest",
-    "equipment": "dumbbell"
+    "id": 32,
+    "name": "Bench Press",
+    "muscle": "Chest",
+    "equipment": [
+      "Barbell",
+      "Dumbbell"
+    ],
+    "difficulty": "Intermediate",
+    "type": "Strength"
   }
 ]
 ```

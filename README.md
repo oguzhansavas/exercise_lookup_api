@@ -37,6 +37,7 @@ GET /exercises?muscle=chest&equipment=dumbbell
 ```
 
 **Example Response:**
+```http
 [
   {
     "name": "Dumbbell Bench Press",
@@ -49,3 +50,4 @@ GET /exercises?muscle=chest&equipment=dumbbell
     "equipment": "dumbbell"
   }
 ]
+```

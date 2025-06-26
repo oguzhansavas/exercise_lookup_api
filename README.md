@@ -34,6 +34,7 @@ https://exercise-lookup-api.onrender.com
 
 ```http
 GET /exercises?muscle=chest&equipment=dumbbell
+```
 
 **Example Response:**
 [

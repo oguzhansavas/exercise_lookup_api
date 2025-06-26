@@ -34,3 +34,17 @@ https://exercise-lookup-api.onrender.com
 
 ```http
 GET /exercises?muscle=chest&equipment=dumbbell
+
+**Example Response:**
+[
+  {
+    "name": "Dumbbell Bench Press",
+    "muscle": "chest",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Incline Dumbbell Fly",
+    "muscle": "chest",
+    "equipment": "dumbbell"
+  }
+]

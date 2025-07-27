@@ -197,79 +197,177 @@ exercises = [
     },
     {
         "id": 29,
+        "name": "Lateral Raise",
+        "muscle": "Shoulders",
+        "equipment": ["Dumbbell", "Cable Machine"],
+        "difficulty": "Beginner"
+    },
+    {
+        "id": 30,
+        "name": "Front Raise",
+        "muscle": "Shoulders",
+        "equipment": ["Dumbbell", "Cable Machine"],
+        "difficulty": "Beginner"
+    },
+    {
+        "id": 31,
+        "name": "Rear Delt Fly",
+        "muscle": "Shoulders",
+        "equipment": ["Dumbbell", "Cable Machine"],
+        "difficulty": "Intermediate"
+    },
+    {
+        "id": 32,
+        "name": "Upright Row",
+        "muscle": "Shoulders",
+        "equipment": ["Barbell", "Dumbbell"],
+        "difficulty": "Intermediate"
+    },
+    {
+        "id": 33,
+        "name": "Shrug",
+        "muscle": "Traps",
+        "equipment": ["Dumbbell", "Barbell"],
+        "difficulty": "Beginner"
+    },
+    {
+        "id": 34,
+        "name": "Face Pull",
+        "muscle": "Traps",
+        "equipment": ["Cable Machine"],
+        "difficulty": "Intermediate"
+    },
+    {
+        "id": 35,
+        "name": "Bent Over Row",
+        "muscle": "Back",
+        "equipment": ["Barbell", "Dumbbell"],
+        "difficulty": "Intermediate"
+    },
+    {
+        "id": 36,
+        "name": "Seated Row",
+        "muscle": "Back",
+        "equipment": ["Cable Machine", 'Machine'],
+        'difficulty': 'Beginner'
+    },
+    {
+        "id": 37,
         "name": "Push-up",
         "muscle": "Chest",
         "equipment": ["Bodyweight"],
         "difficulty": "Beginner"
     },
     {
-        "id": 30,
+        "id": 38,
         "name": "Pull-up",
         "muscle": "Back",
         "equipment": ["Bar"],
         "difficulty": "Intermediate"
     },
     {
-        "id": 31,
+        "id": 39,
         "name": "Squat",
         "muscle": "Legs",
         "equipment": ["Bodyweight", "Barbell"],
         "difficulty": "Beginner"
     },
     {
-        "id": 32,
+        "id": 40,
         "name": "Bench Press",
         "muscle": "Chest",
         "equipment": ["Barbell", "Dumbbell"],
         "difficulty": "Intermediate"
     },
     {
-        "id": 33,
+        "id": 41,
         "name": "Deadlift",
         "muscle": "Back",
         "equipment": ["Barbell", "Dumbbell"],
         "difficulty": "Advanced"
     },
     {
-        "id": 34,
+        "id": 42,
+        "name": "Romanian Deadlift",
+        "muscle": "Legs",
+        "equipment": ["Barbell", "Dumbbell"],
+        "difficulty": "Intermediate"
+    },
+    {
+        "id": 43,
         "name": "Lunges",
         "muscle": "Legs",
         "equipment": ["Bodyweight", "Dumbbell", "Barbell"],
         "difficulty": "Beginner"
     },
     {
-        "id": 35,
+        "id": 44,
         "name": "Leg Press",
         "muscle": "Legs",
         "equipment": ["Machine"],
         "difficulty": "Intermediate"
     },
     {
-        "id": 36,
-        "name": "Lat Pulldown",
-        "muscle": "Back",
-        "equipment": ["Machine"],
-        "difficulty": "Beginner"
-    },
-    {
-        "id": 37,
+        "id": 45,
         "name": "Chest Fly",
         "muscle": "Chest",
         "equipment": ["Dumbbell", "Machine"],
         "difficulty": "Intermediate"
     },
     {
-        "id": 38,
+        "id": 46,
         "name": "Calf Raise",
         "muscle": "Legs",
         "equipment": ["Bodyweight", "Dumbbell", "Barbell", "Machine"],
         "difficulty": "Beginner"
     },
     {
-        "id": 39,
+        "id": 47,
         "name": "Back Extension",
         "muscle": "Back",
         "equipment": ["Bodyweight", "Dumbbell"],
         "difficulty": "Intermediate"
     },
+    {
+        "id": 48,
+        "name": "Hip Thrust",
+        "muscle": "Glutes",
+        "equipment": ["Barbell", "Dumbbell"],
+        "difficulty": "Intermediate"
+    },
+    {
+        "id": 49,
+        "name": "Glute Bridge",
+        "muscle": "Glutes",
+        "equipment": ["Bodyweight", "Barbell"],
+        "difficulty": "Beginner"
+    },
+    {
+        "id": 50,
+        "name": "Leg Extension",
+        "muscle": "Legs",
+        "equipment": ["Machine"],
+        "difficulty": "Intermediate"
+    },
+    {
+        "id": 51,
+        "name": "Military Press",
+        "muscle": "Shoulders",
+        "equipment": ["Barbell", "Dumbbell"],
+        "difficulty": "Intermediate"
+    },
+    {
+        "id": 52,
+        "name": "Incline Bench Press",
+        "muscle": "Chest",
+        "equipment": ["Barbell", "Dumbbell"],
+        "difficulty": "Intermediate"
+    },
+    {
+        "id": 53,
+        "name": "Decline Bench Press",
+        "muscle": "Chest",
+        "equipment": ["Barbell", "Dumbbell"],
+        "difficulty": "Intermediate"
+    }
 ]

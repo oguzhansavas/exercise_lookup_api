@@ -4,18 +4,11 @@ A lightweight, RESTful API built with FastAPI that allows users to search and fi
 
 ---
 
-## 🚀 Base URL
-
-https://exercise-lookup-api.onrender.com
-
----
-
 ## 📚 Features
 
 - 🔍 Search exercises by muscle group (`chest`, `back`, etc.)
 - 🛠️ Filter by equipment used (`dumbbell`, `barbell`, `bodyweight`, etc.)
 - 🧾 JSON responses for easy integration
-- 📈 Monetized via RapidAPI
 
 ---
 
